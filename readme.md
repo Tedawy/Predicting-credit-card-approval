@@ -21,4 +21,3 @@ The structure of this notebook is as follows:
 <li>Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.</li>
 </ul>
 
-###  We find that since this data is confidential, the contributor of the dataset has anonymized the feature names.
